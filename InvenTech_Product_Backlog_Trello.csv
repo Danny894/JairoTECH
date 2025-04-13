@@ -1,0 +1,16 @@
+Name,Description,List
+Registrar productos mediante códigos QR o RFID,Requerimiento funcional del sistema InvenTech,Product Backlog
+Actualizar cantidades en el inventario en tiempo real,Requerimiento funcional del sistema InvenTech,Product Backlog
+Generar reportes en PDF o Excel con datos del inventario,Requerimiento funcional del sistema InvenTech,Product Backlog
+Gestionar usuarios y asignar roles de acceso,Requerimiento funcional del sistema InvenTech,Product Backlog
+"Consultar productos por nombre, modelo o categoría",Requerimiento funcional del sistema InvenTech,Product Backlog
+Registrar automáticamente movimientos de inventario,Requerimiento funcional del sistema InvenTech,Product Backlog
+Generar alertas por stock mínimo,Requerimiento funcional del sistema InvenTech,Product Backlog
+Visualizar estadísticas gráficas del inventario,Requerimiento funcional del sistema InvenTech,Product Backlog
+Diseñar una interfaz amigable e intuitiva,Requerimiento funcional del sistema InvenTech,Product Backlog
+Escanear productos desde dispositivos móviles,Requerimiento funcional del sistema InvenTech,Product Backlog
+Identificar productos obsoletos o de baja rotación,Requerimiento funcional del sistema InvenTech,Product Backlog
+"Filtrar reportes por fecha, categoría y estado",Requerimiento funcional del sistema InvenTech,Product Backlog
+Visualizar historial de cambios por producto,Requerimiento funcional del sistema InvenTech,Product Backlog
+Exportar reportes para auditorías externas,Requerimiento funcional del sistema InvenTech,Product Backlog
+Registrar ubicación exacta de productos en el almacén,Requerimiento funcional del sistema InvenTech,Product Backlog
